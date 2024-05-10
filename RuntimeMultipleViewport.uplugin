@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RuntimeMultipleViewport",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Anto Kenway",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RuntimeMultipleViewport",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Sealed": true
+}

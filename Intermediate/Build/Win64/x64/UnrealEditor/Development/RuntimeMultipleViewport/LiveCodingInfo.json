@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RuntimeMultipleViewport.cpp.obj": [
+			"MyBlueprintFunctionLibrary.gen.cpp.obj",
+			"RuntimeMultipleViewport.init.gen.cpp.obj",
+			"MyBlueprintFunctionLibrary.cpp.obj",
+			"RuntimeMultipleViewport.cpp.obj"
+		]
+	}
+}

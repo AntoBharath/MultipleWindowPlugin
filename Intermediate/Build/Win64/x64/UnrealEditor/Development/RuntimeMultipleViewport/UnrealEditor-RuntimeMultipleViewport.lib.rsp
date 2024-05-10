@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RuntimeMultipleViewport.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\MultipleWindowPlugin\Intermediate\Build\Win64\x64\MultipleWindowPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal Projects\MultipleWindowPlugin\Plugins\RuntimeMultipleViewport\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeMultipleViewport\Module.RuntimeMultipleViewport.cpp.obj"
+"D:\Unreal Projects\MultipleWindowPlugin\Plugins\RuntimeMultipleViewport\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeMultipleViewport\MyBlueprintFunctionLibrary.cpp.obj"
+"D:\Unreal Projects\MultipleWindowPlugin\Plugins\RuntimeMultipleViewport\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeMultipleViewport\RuntimeMultipleViewport.cpp.obj"
+"D:\Unreal Projects\MultipleWindowPlugin\Plugins\RuntimeMultipleViewport\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeMultipleViewport\Default.rc2.res"
+/OUT:"D:\Unreal Projects\MultipleWindowPlugin\Plugins\RuntimeMultipleViewport\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeMultipleViewport\UnrealEditor-RuntimeMultipleViewport.lib"
